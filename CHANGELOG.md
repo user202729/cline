@@ -2,12 +2,7 @@
 
 ## 3.15.0
 
-### Minor Changes
-
 -   9eaf023: updated gemini caching for OR and cline provider
-
-### Patch Changes
-
 -   675b5e1: Batch selection and deletion of tasks in history
 
 ## [3.14.0]
